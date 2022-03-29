@@ -3,18 +3,19 @@
 /*                                                        :::      ::::::::   */
 /*   main.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: wasdisa <wasdisa@student.42.fr>            +#+  +:+       +#+        */
+/*   By: zozurgan <zozurgan@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/28 04:47:08 by wasdisa           #+#    #+#             */
-/*   Updated: 2022/03/28 04:47:10 by wasdisa          ###   ########.fr       */
+/*   Updated: 2022/03/29 17:25:19 by zozurgan         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "ft_printf.h"
 #include <stdio.h>
 
-int	main()
+/* int	main()
 {
 		ft_printf("%d\n", 5 + 2);
 	return 0;
 }
+*/
